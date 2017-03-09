@@ -10,3 +10,6 @@
 [submodule "4/Flash_Mahdi-I_Wong-T_Ju-D"]
 	path = 4/Flash_Mahdi-I_Wong-T_Ju-D
 	url = https://github.com/imahdi2000/Flash_Mahdi-I_Wong-T_Ju-D.git
+[submodule "4/Burgers_Bhatt-A_Chen-E_Chow-M"]
+	path = 4/Burgers_Bhatt-A_Chen-E_Chow-M
+	url = https://github.com/melaniechow/burgers.git
