@@ -1,3 +1,6 @@
 [submodule "3/Hi_Cruz-Narsted-N_Chen-R_Li-E"]
 	path = 3/Hi_Cruz-Narsted-N_Chen-R_Li-E
 	url = https://github.com/MrEricL/Hi.git
+[submodule "3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M"]
+	path = 3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M
+	url = https://github.com/queeniexiang/QueenTerrysSun.git
