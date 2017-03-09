@@ -22,3 +22,6 @@
 [submodule "5/HaroldKids_Tamara-M_Johnston-C_Boylan-A"]
 	path = 5/HaroldKids_Tamara-M_Johnston-C_Boylan-A
 	url = https://github.com/Mohamedtamara/Harold-Kids.git
+[submodule "5/SortOfQuick_Yu-J_Ng-A_Zhang-E"]
+	path = 5/SortOfQuick_Yu-J_Ng-A_Zhang-E
+	url = git@github.com:jenyu7/SortOfQuick.git
