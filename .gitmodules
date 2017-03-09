@@ -25,6 +25,6 @@
 [submodule "5/SortOfQuick_Yu-J_Ng-A_Zhang-E"]
 	path = 5/SortOfQuick_Yu-J_Ng-A_Zhang-E
 	url = git@github.com:jenyu7/SortOfQuick.git
-[submodule "1/San1c_Quang-R_Rahman-A_Ro-E"]
-	path = 1/San1c_Quang-R_Rahman-A_Ro-E
+[submodule "1/San1c_Quang-J_Rahman-A_Ro-E"]
+	path = 1/San1c_Quang-J_Rahman-A_Ro-E
 	url = https://github.com/JonathanQuang/San1c.git
