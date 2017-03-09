@@ -4,3 +4,6 @@
 [submodule "3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M"]
 	path = 3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M
 	url = https://github.com/queeniexiang/QueenTerrysSun.git
+[submodule "3/RiHAV_Zheng-R_Teoh-V_Peng-A"]
+	path = 3/RiHAV_Zheng-R_Teoh-V_Peng-A
+	url = https://github.com/A11ard/RiHAV.git
