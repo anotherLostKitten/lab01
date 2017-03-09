@@ -7,3 +7,6 @@
 [submodule "3/RiHAV_Zheng-R_Teoh-V_Peng-A"]
 	path = 3/RiHAV_Zheng-R_Teoh-V_Peng-A
 	url = https://github.com/A11ard/RiHAV.git
+[submodule "4/Flash_Mahdi-I_Wong-T_Ju-D"]
+	path = 4/Flash_Mahdi-I_Wong-T_Ju-D
+	url = https://github.com/imahdi2000/Flash_Mahdi-I_Wong-T_Ju-D.git
