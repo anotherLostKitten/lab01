@@ -19,3 +19,6 @@
 [submodule "5/Barry-Allen_Shafran-M_Mok-E_Siu-R"]
 	path = 5/Barry-Allen_Shafran-M_Mok-E_Siu-R
 	url = git@github.com:Mshafran/Barry-Allen.git
+[submodule "5/HaroldKids_Tamara-M_Johnston-C_Boylan-A"]
+	path = 5/HaroldKids_Tamara-M_Johnston-C_Boylan-A
+	url = https://github.com/Mohamedtamara/Harold-Kids.git
