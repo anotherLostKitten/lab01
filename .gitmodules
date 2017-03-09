@@ -13,3 +13,6 @@
 [submodule "4/Burgers_Bhatt-A_Chen-E_Chow-M"]
 	path = 4/Burgers_Bhatt-A_Chen-E_Chow-M
 	url = https://github.com/melaniechow/burgers.git
+[submodule "4/legendary-goggles_Roktim-A_Ng-M_Chen-X"]
+	path = 4/legendary-goggles_Roktim-A_Ng-M_Chen-X
+	url = https://github.com/MarcusNg/legendary-goggles.git
