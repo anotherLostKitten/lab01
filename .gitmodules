@@ -73,3 +73,6 @@
 [submodule "1/Jellybeans_Ruvinshteyn-M_Tabassum-M_Woo-J"]
 	path = 1/Jellybeans_Ruvinshteyn-M_Tabassum-M_Woo-J
 	url = https://github.com/JackieW001/Jellybeans.git
+[submodule "5/KaCHOW_Jin-B_Vummidi-S_Zhang-B"]
+	path = 5/KaCHOW_Jin-B_Vummidi-S_Zhang-B
+	url = https://github.com/brookejin/KaCHOW.git
