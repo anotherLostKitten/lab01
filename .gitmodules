@@ -106,3 +106,6 @@
 [submodule "5/KaCHOW_Jin-B_Zhang-B_Vummidi-S"]
 	path = 5/KaCHOW_Jin-B_Zhang-B_Vummidi-S
 	url = https://github.com/brookejin/KaCHOW.git
+[submodule "1/MiddleSense"]
+	path = 1/MiddleSense
+	url = git@github.com:sngo1/MiddleSense.git
