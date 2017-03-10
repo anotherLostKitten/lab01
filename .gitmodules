@@ -100,3 +100,6 @@
 [submodule "3/AndTeam-OWasOurName-O_Acuna-M_Apterman-D_Nag-A"]
 	path = 3/AndTeam-OWasOurName-O_Acuna-M_Apterman-D_Nag-A
 	url = https://github.com/DavidApterman/andTeam-oWasOurName-o.git
+[submodule "5/QuickSilver_Ahmed-F_Liu-J_Moi-T"]
+	path = 5/QuickSilver_Ahmed-F_Liu-J_Moi-T
+	url = git@github.com:fahmed3/QuickSilver.git
