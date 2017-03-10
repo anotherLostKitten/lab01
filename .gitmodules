@@ -34,3 +34,6 @@
 [submodule "1/NorthAmericanX-15_Borisov-N_Lum-J_Jahad-I"]
 	path = 1/NorthAmericanX-15_Borisov-N_Lum-J_Jahad-I
 	url = https://github.com/ibnullify/NorthAmericanX-15.git
+[submodule "4/shurima_Luo-E_Shi-X_Naing-N"]
+	path = 4/shurima_Luo-E_Shi-X_Naing-N
+	url = https://github.com/p2pcmlp/shurima.git
