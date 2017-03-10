@@ -64,3 +64,6 @@
 [submodule "5/QuickSorters_Lam-J_Qu-A_Ionkina-K"]
 	path = 5/QuickSorters_Lam-J_Qu-A_Ionkina-K
 	url = https://github.com/jasonlam00/QuickSorters.git
+[submodule "1/PowerPuffGirs_Kang-Y_Lei-C_Tung-D"]
+	path = 1/PowerPuffGirs_Kang-Y_Lei-C_Tung-D
+	url = https://github.com/clei1/PowerPuffGirls-Part-II.git
