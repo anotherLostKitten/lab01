@@ -121,3 +121,6 @@
 [submodule "3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M"]
 	path = 3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M
 	url = https://github.com/queeniexiang/QueenTerrysSun.git
+[submodule "1/Team_Zhang-Y_Zhang-D_Xiedeng-J"]
+	path = 1/Team_Zhang-Y_Zhang-D_Xiedeng-J
+	url = https://github.com/yuyangz/Team.git
