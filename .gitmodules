@@ -37,3 +37,6 @@
 [submodule "4/shurima_Luo-E_Shi-X_Naing-N"]
 	path = 4/shurima_Luo-E_Shi-X_Naing-N
 	url = https://github.com/p2pcmlp/shurima.git
+[submodule "5/dadab_Huang-D_SmithSalzburg-C_Regassa-D"]
+	path = 5/dadab_Huang-D_SmithSalzburg-C_Regassa-D
+	url = https://github.com/ap251/lab01.git
