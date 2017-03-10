@@ -55,3 +55,6 @@
 [submodule "1/Clozure_Chen-K_Lin-K_Zaia-J"]
 	path = 1/Clozure_Chen-K_Lin-K_Zaia-J
 	url = https://github.com/kristinlin/clozure.git
+[submodule "3/MaJestiQ_Wu-Y_Wong-M_Sit-J"]
+	path = 3/MaJestiQ_Wu-Y_Wong-M_Sit-J
+	url = https://github.com/JesseSit/MaJestiQ.git
