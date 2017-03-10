@@ -85,3 +85,6 @@
 [submodule "3/PeregrineFalcons_Shifrina-D_Zheng-H_Radosav-F"]
 	path = 3/PeregrineFalcons_Shifrina-D_Zheng-H_Radosav-F
 	url = git@github.com:dariashifrina/peregrinefalcons.git
+[submodule "5/SwiftSifters_Huang-C_Olevsky-L_Islam-S"]
+	path = 5/SwiftSifters_Huang-C_Olevsky-L_Islam-S
+	url = https://github.com/chuang9/QuickSort.git
