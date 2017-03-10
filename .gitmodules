@@ -115,3 +115,6 @@
 [submodule "3/TimeKeepers_Lin-J_Murphy-A_Newman-G"]
 	path = 3/TimeKeepers_Lin-J_Murphy-A_Newman-G
 	url = https://github.com/AugieMurphy/TimeKeepers.git
+[submodule "QuokkaCrumbs_Kwong-B_Xia-M_Chan-M"]
+	path = QuokkaCrumbs_Kwong-B_Xia-M_Chan-M
+	url = https://github.com/MoogieMoo/QuokkaCrumbs.git
