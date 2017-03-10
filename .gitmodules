@@ -61,3 +61,6 @@
 [submodule "1/BananaBread-Wang_K-Hvirtsman_D-Lawren_V"]
 	path = 1/BananaBread-Wang_K-Hvirtsman_D-Lawren_V
 	url = git@github.com:kwang7/quickSort.git
+[submodule "5/QuickSorters_Lam-J_Qu-A_Ionkina-K"]
+	path = 5/QuickSorters_Lam-J_Qu-A_Ionkina-K
+	url = https://github.com/jasonlam00/QuickSorters.git
