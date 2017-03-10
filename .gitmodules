@@ -43,3 +43,6 @@
 [submodule "4/Shrug_Rafi-S_Wang-A_Kim-A"]
 	path = 4/Shrug_Rafi-S_Wang-A_Kim-A
 	url = https://github.com/awang18/teamshrug
+[submodule "5/dadab_Huang-D_SmithSalzberg-C_Regassa-D"]
+	path = 5/dadab_Huang-D_SmithSalzberg-C_Regassa-D
+	url = https://github.com/csmithsalzberg/dadab.git
