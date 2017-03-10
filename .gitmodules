@@ -73,9 +73,6 @@
 [submodule "1/Jellybeans_Ruvinshteyn-M_Tabassum-M_Woo-J"]
 	path = 1/Jellybeans_Ruvinshteyn-M_Tabassum-M_Woo-J
 	url = https://github.com/JackieW001/Jellybeans.git
-[submodule "5/KaCHOW_Jin-B_Vummidi-S_Zhang-B"]
-	path = 5/KaCHOW_Jin-B_Vummidi-S_Zhang-B
-	url = https://github.com/brookejin/KaCHOW.git
 [submodule "5/MicDrop_Elsharawy-M_Lam-I_Pan-C"]
 	path = 5/MicDrop_Elsharawy-M_Lam-I_Pan-C
 	url = https://github.com/Razorflame3912/MicDrop.git
@@ -106,3 +103,6 @@
 [submodule "4/2AbsenteesAndALatecomer_Thomas-E_Yu-C_Zhou-J"]
 	path = 4/2AbsenteesAndALatecomer_Thomas-E_Yu-C_Zhou-J
 	url = https://github.com/EugeneThomas/2AbsenteesAndALatecomer.git
+[submodule "5/KaCHOW_Jin-B_Zhang-B_Vummidi-S"]
+	path = 5/KaCHOW_Jin-B_Zhang-B_Vummidi-S
+	url = https://github.com/brookejin/KaCHOW.git
