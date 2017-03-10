@@ -31,3 +31,6 @@
 [submodule "5/Titanic-2_Tondolo-F_Chan-B_Chen-T"]
 	path = 5/Titanic-2_Tondolo-F_Chan-B_Chen-T
 	url = https://github.com/ftondolo/Titanic-2.git
+[submodule "1/NorthAmericanX-15_Borisov-N_Lum-J_Jahad-I"]
+	path = 1/NorthAmericanX-15_Borisov-N_Lum-J_Jahad-I
+	url = https://github.com/ibnullify/NorthAmericanX-15.git
