@@ -94,3 +94,6 @@
 [submodule "4/Jittle_Zhang-J_Lin-T_Tao-I"]
 	path = 4/Jittle_Zhang-J_Lin-T_Tao-I
 	url = https://github.com/iristao/Jittle.git
+[submodule "3/SoSoSlow_Lin-H_Eng-L_Chung-E"]
+	path = 3/SoSoSlow_Lin-H_Eng-L_Chung-E
+	url = https://github.com/HermanLin/SoSoSlow.git
