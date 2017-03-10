@@ -79,3 +79,6 @@
 [submodule "5/MicDrop_Elsharawy-M_Lam-I_Pan-C"]
 	path = 5/MicDrop_Elsharawy-M_Lam-I_Pan-C
 	url = https://github.com/Razorflame3912/MicDrop.git
+[submodule "1/Faunder_Cuenca-G_Jaoutakas-A_Liu-H"]
+	path = 1/Faunder_Cuenca-G_Jaoutakas-A_Liu-H
+	url = https://github.com/gracecuenca/Faunder.git
