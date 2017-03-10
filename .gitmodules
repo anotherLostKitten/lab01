@@ -118,3 +118,6 @@
 [submodule "1/QuokkaCrumbs_Kwong-B_Xia-M_Chan-M"]
 	path = 1/QuokkaCrumbs_Kwong-B_Xia-M_Chan-M
 	url = https://github.com/MoogieMoo/QuokkaCrumbs.git
+[submodule "3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M"]
+	path = 3/QueenTerrysSun_Xiang-Q_Guan-T_Korsun-M
+	url = https://github.com/queeniexiang/QueenTerrysSun.git
