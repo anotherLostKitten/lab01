@@ -58,6 +58,3 @@
 [submodule "3/MaJestiQ_Wu-Y_Wong-M_Sit-J"]
 	path = 3/MaJestiQ_Wu-Y_Wong-M_Sit-J
 	url = https://github.com/JesseSit/MaJestiQ.git
-[submodule "BananaBread-Wang_K-Hvirtsman_D-Lawren_V"]
-	path = BananaBread-Wang_K-Hvirtsman_D-Lawren_V
-	url = git@github.com:kwang7/quickSort.git
