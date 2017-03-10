@@ -40,3 +40,6 @@
 [submodule "5/dadab_Huang-D_SmithSalzburg-C_Regassa-D"]
 	path = 5/dadab_Huang-D_SmithSalzburg-C_Regassa-D
 	url = https://github.com/ap251/lab01.git
+[submodule "4/Shrug_Rafi-S_Wang-A_Kim-A"]
+	path = 4/Shrug_Rafi-S_Wang-A_Kim-A
+	url = https://github.com/awang18/teamshrug
