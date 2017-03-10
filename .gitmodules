@@ -61,3 +61,6 @@
 [submodule "1/PowerPuffGirs_Kang-Y_Lei-C_Tung-D"]
 	path = 1/PowerPuffGirs_Kang-Y_Lei-C_Tung-D
 	url = https://github.com/clei1/PowerPuffGirls-Part-II.git
+[submodule "5/dadab_Huang-D_Smith-Salzberg-C_Regassa-D"]
+	path = 5/dadab_Huang-D_Smith-Salzberg-C_Regassa-D
+	url = https://github.com/csmithsalzberg/dadab.git
