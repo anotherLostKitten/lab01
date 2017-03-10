@@ -67,3 +67,6 @@
 [submodule "3/JuanManArmy_Smith-J"]
 	path = 3/JuanManArmy_Smith-J
 	url = https://github.com/JamesSmith1202/JuanManArmy_Smith-J.git
+[submodule "3/Nomex-Blanket"]
+	path = 3/Nomex-Blanket
+	url = https://github.com/TakingTheL/Nomex-Blanket
