@@ -82,3 +82,6 @@
 [submodule "1/Faunder_Cuenca-G_Jaoutakas-A_Liu-H"]
 	path = 1/Faunder_Cuenca-G_Jaoutakas-A_Liu-H
 	url = https://github.com/gracecuenca/Faunder.git
+[submodule "3/PeregrineFalcons_Shifrina-D_Zheng-H_Radosav-F"]
+	path = 3/PeregrineFalcons_Shifrina-D_Zheng-H_Radosav-F
+	url = git@github.com:dariashifrina/peregrinefalcons.git
