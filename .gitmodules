@@ -109,3 +109,6 @@
 [submodule "1/MiddleSense_Bao-K_Sparakis-D_Ngo-S"]
 	path = 1/MiddleSense_Bao-K_Sparakis-D_Ngo-S
 	url = git@github.com:sngo1/MiddleSense.git
+[submodule "1/MiddleSense"]
+	path = 1/MiddleSense
+	url = git@github.com:sngo1/MiddleSense.git
