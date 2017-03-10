@@ -97,3 +97,6 @@
 [submodule "3/SoSoSlow_Lin-H_Eng-L_Chung-E"]
 	path = 3/SoSoSlow_Lin-H_Eng-L_Chung-E
 	url = https://github.com/HermanLin/SoSoSlow.git
+[submodule "3/AndTeam-OWasOurName-O_Acuna-M_Apterman-D_Nag-A"]
+	path = 3/AndTeam-OWasOurName-O_Acuna-M_Apterman-D_Nag-A
+	url = https://github.com/DavidApterman/andTeam-oWasOurName-o.git
