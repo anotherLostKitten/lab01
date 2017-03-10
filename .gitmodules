@@ -103,3 +103,6 @@
 [submodule "5/QuickSilver_Ahmed-F_Liu-J_Moi-T"]
 	path = 5/QuickSilver_Ahmed-F_Liu-J_Moi-T
 	url = git@github.com:fahmed3/QuickSilver.git
+[submodule "4/2AbsenteesAndALatecomer_Thomas-E_Yu-C_Zhou-J"]
+	path = 4/2AbsenteesAndALatecomer_Thomas-E_Yu-C_Zhou-J
+	url = https://github.com/EugeneThomas/2AbsenteesAndALatecomer.git
