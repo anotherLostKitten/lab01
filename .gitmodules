@@ -64,3 +64,6 @@
 [submodule "5/dadab_Huang-D_Smith-Salzberg-C_Regassa-D"]
 	path = 5/dadab_Huang-D_Smith-Salzberg-C_Regassa-D
 	url = https://github.com/csmithsalzberg/dadab.git
+[submodule "3/JuanManArmy_Smith-J"]
+	path = 3/JuanManArmy_Smith-J
+	url = https://github.com/JamesSmith1202/JuanManArmy_Smith-J.git
