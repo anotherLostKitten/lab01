@@ -88,3 +88,6 @@
 [submodule "5/SwiftSifters_Huang-C_Olevsky-L_Islam-S"]
 	path = 5/SwiftSifters_Huang-C_Olevsky-L_Islam-S
 	url = https://github.com/chuang9/QuickSort.git
+[submodule "3/GIJoe_Weng-J_Gill-G_Han-J"]
+	path = 3/GIJoe_Weng-J_Gill-G_Han-J
+	url = https://github.com/Gillgamesh/GIJoe.git
