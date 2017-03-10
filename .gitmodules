@@ -76,3 +76,6 @@
 [submodule "5/KaCHOW_Jin-B_Vummidi-S_Zhang-B"]
 	path = 5/KaCHOW_Jin-B_Vummidi-S_Zhang-B
 	url = https://github.com/brookejin/KaCHOW.git
+[submodule "5/MicDrop_Elsharawy-M_Lam-I_Pan-C"]
+	path = 5/MicDrop_Elsharawy-M_Lam-I_Pan-C
+	url = https://github.com/Razorflame3912/MicDrop.git
