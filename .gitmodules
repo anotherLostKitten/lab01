@@ -124,3 +124,6 @@
 [submodule "1/Team_Zhang-Y_Zhang-D_Xiedeng-J"]
 	path = 1/Team_Zhang-Y_Zhang-D_Xiedeng-J
 	url = https://github.com/yuyangz/Team.git
+[submodule "4/QuickSilver_Wang-Z_Fomina-A_Tricarico-G"]
+	path = 4/QuickSilver_Wang-Z_Fomina-A_Tricarico-G
+	url = https://github.com/sfomina/QuickSilver.git
