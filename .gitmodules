@@ -127,3 +127,6 @@
 [submodule "4/QuickSilver_Wang-Z_Fomina-A_Tricarico-G"]
 	path = 4/QuickSilver_Wang-Z_Fomina-A_Tricarico-G
 	url = https://github.com/sfomina/QuickSilver.git
+[submodule "4/AppleJuice_Li-K_Yan-P_Mallick-A"]
+	path = 4/AppleJuice_Li-K_Yan-P_Mallick-A
+	url = https://github.com/Kli16/AppleJuice_Li-K_Yan-P_Mallick-A
